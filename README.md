@@ -1,2 +1,2 @@
 # FSteps_Python
-### This repository is about my first steps for Pyhton
+### This repository is about my first steps in Pyhton
